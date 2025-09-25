@@ -1,8 +1,7 @@
 
 #Import
 import random
-#Cachipun
-
+#Cachipun is what rock paper scissors is called in Chile
 def game():
     print('=============================')
     print('        CACHIPUN GAME       ')
